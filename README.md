@@ -1,2 +1,4 @@
-![Image](https://github.com/user-attachments/assets/98016347-5f4c-4b87-be35-d123e7fa674a) 
-Powering Imagination.
+<img width="785" height="99" alt="Image" src="https://github.com/user-attachments/assets/3b52c185-1614-4102-a0d7-3ee68eb23cba" />
+
+
+
