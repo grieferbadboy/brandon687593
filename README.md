@@ -18,3 +18,11 @@ my tags:
 <img width="1280" height="90" alt="Image" src="https://github.com/user-attachments/assets/1a2b4e69-150d-4957-a044-05b3d1b6e68e" />
 
 <img width="398" height="855" alt="Image" src="https://github.com/user-attachments/assets/0d83680b-351e-4472-9d00-1df4620d3077" />
+
+
+![Image](https://github.com/user-attachments/assets/ae17f84e-a4a1-4f66-8e82-fb2748e209b9) @astroboyfriend ![Image](https://github.com/user-attachments/assets/7b3129d3-d209-4391-910f-d9a042159e17)
+
+
+ 
+
+![Image](https://github.com/user-attachments/assets/25565e61-3852-474a-9f7b-9bf18e41b5b5)
