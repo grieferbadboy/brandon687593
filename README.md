@@ -1,8 +1,9 @@
 <img width="1280" height="184" alt="Image" src="https://github.com/user-attachments/assets/1a2b4e69-150d-4957-a044-05b3d1b6e68e" />
-
 <img width="200" height="200" alt="Image" src="https://github.com/user-attachments/assets/3b0b6da2-4ef0-4afa-8987-da4332dbba67" />
 
-• 𝘕𝘢𝘮𝘦 : 𝘋𝘶𝘱𝘪
+ <img width="100" height="100" alt="Image" src="https://github.com/user-attachments/assets/ecbfb0e3-bf4d-4568-8c81-e94760954ed6" />
+    
+• 𝘕𝘢𝘮𝘦 : 𝘋𝘶𝘱i
 
 • 𝘗𝘳𝘰𝘯𝘰𝘶𝘯𝘴: 𝘏𝘦/𝘏𝘪𝘮
 
